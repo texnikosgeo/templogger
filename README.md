@@ -21,12 +21,19 @@ After running sensors_setup.rb and name all sensors, edit logger.rb accordingly
 
 # Example sensors file after sensors_setup.rb
    cat ~/templogger/sensors/sensors 
+   
    28-01131bd96b2d, psigio02
+   
    28-01144ed06baa, psigio01
+   
    28-01144ed378aa, psigio03
+   
    28-01144edc6eaa, frezzer01
+   
    28-01144ee714aa, frezzer02
+   
    28-0417a2f406ff, corridor01
+   
    28-0417a2fc97ff, diadromos
 
 # Example temp_real_time.rb file after sensors_setup.rb
